@@ -103,7 +103,7 @@ function loop(){
 	}
 }
 
-const canvasBody = document.getElementById("canvas"),
+const canvasBody = document.getElementById("node_animation"),
 drawArea = canvasBody.getContext("2d");
 let delay = 200, tid,
 rgb = opts.lineColor.match(/\d+/g);
