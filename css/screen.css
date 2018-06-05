@@ -120,7 +120,7 @@ header {
   padding: 20px 0;
   background: #1f1f1f;
   /* Old browsers */
-  background: linear-gradient(to bottom, #1f1f1f 0%, #212429 150%) no-repeat #1f1f1f; }
+  background: linear-gradient(to bottom, #1f1f1f 0%, #212429 100%) no-repeat #1f1f1f; }
   header a {
     color: #fff;
     text-decoration: none;
