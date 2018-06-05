@@ -50,7 +50,7 @@ p, address {
   line-height: 1.4em; }
 
 .bottom-cta {
-  background: linear-gradient(to bottom, #4182e4 0%, #4182e4 100%);
+  background: linear-gradient(to bottom, #1f1f1f 0%, #212429 100%);
   color: #fff;
   text-align: center;
   margin: 0;
@@ -80,7 +80,7 @@ p, address {
 .hero {
   color: #ffffff;
   text-align: center;
-  background: linear-gradient(to bottom, #4182e4 0%, #4182e4 100%) no-repeat #a05fb7;
+  background: linear-gradient(to bottom, #212429 0%, #4182e4 100%) no-repeat #a05fb7;
   padding-top: 50px; }
   .hero p {
     color: #fff; }
@@ -118,9 +118,9 @@ p, address {
 header {
   color: #fff;
   padding: 20px 0;
-  background: #4182e4;
+  background: #1f1f1f;
   /* Old browsers */
-  background: linear-gradient(to bottom, #4182e4 0%, #4182e4 150%) no-repeat #4182e4; }
+  background: linear-gradient(to bottom, #1f1f1f 0%, #212429 150%) no-repeat #1f1f1f; }
   header a {
     color: #fff;
     text-decoration: none;
@@ -444,7 +444,7 @@ blockquote:before {
   color: #fff;
   text-decoration: none;
   padding: 10px 30px;
-  background: #4182e4;
+  background: #1f1f1f;
   border-radius: 3px;
   border: 1px solid rgba(255, 255, 255, 0.5);
   transition: .2s ease-in-out; }
@@ -462,7 +462,7 @@ blockquote:before {
 
 .button.alt a:hover {
   background: #fff;
-  color: #4182e4; }
+  color: #1f1f1f; }
 
 textarea, input, button, select {
   font-family: inherit;
@@ -554,7 +554,7 @@ nav {
       border-radius: 5px; }
       nav a.highlight:hover {
         background: #fff;
-        color: #4182e4; } }
+        color: #1f1f1f; } }
   nav a.active {
     color: #fff; }
 
